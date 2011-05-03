@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	deed8d51c58c7fa1f8d819d60c67675d
-URL:		http://pear.horde.org/package/Horde_Perms/
+URL:		https://github.com/horde/horde/tree/master/framework/Perms/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
