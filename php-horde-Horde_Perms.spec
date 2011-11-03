@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Permissions System
 Name:		php-horde-Horde_Perms
-Version:	1.0.3
+Version:	1.0.5
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	140b3b1ac4ea4b266e1d1a75549ed2ed
+# Source0-md5:	42765e40ef2c1f28a12760a32848476b
 URL:		https://github.com/horde/horde/tree/master/framework/Perms/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
