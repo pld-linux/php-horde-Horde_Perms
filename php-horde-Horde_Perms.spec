@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Perms
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Permissions System
 Name:		php-horde-Horde_Perms
 Version:	1.0.7
